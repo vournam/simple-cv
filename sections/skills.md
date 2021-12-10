@@ -1,4 +1,5 @@
 ## Skills
 
-* \LaTeX
-* Bullwhip
+* Python
+* C++
+* Matlab
