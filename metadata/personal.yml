@@ -9,12 +9,9 @@ name: Vourna Maria-Melina # full name
 # These can be commented out or deleted.
 display-name: Vourna Maria-Melina # name to be displayed.
 date-of-birth: 1999-10-29 # in YYYY-MM-DD format
-citizenships:
+country:
 - Greece
 address:
 - Vrahneika,Patras
-telephone: +30 6945695709
 email: mvourna@gmail.com
-url: invalid
-twitter: invalid
 github: vournam
